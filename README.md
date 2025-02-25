@@ -1,6 +1,6 @@
 # Version_Control
 
-Version_Control is a simplified version control system inspired by Git, built in Java. This project is an educational tool that demonstrates core concepts of version control including commits, branching, staging, and persistence.
+Version_Control is a simplified version control system inspired by Git, built in Java. This project is a personal project that demonstrates core concepts of version control including commits, branching, staging, and persistence.
 
 ## Overview
 
