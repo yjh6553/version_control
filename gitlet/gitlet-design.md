@@ -129,10 +129,3 @@ across multiple runs. Here are some tips for writing this section:
   there.
 
 ###
-
-## 4. Design Diagram
-
-Attach a picture of your design diagram illustrating the structure of your
-classes and data structures. The design diagram should make it easy to 
-visualize the structure and workflow of your program.
-
