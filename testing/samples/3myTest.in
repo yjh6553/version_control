@@ -1,0 +1,40 @@
+# Basic Test made by Joshua
+> init
+<<<
++ testScore.txt a.txt
+> add testScore.txt
+<<<
++ cs70.txt b.txt
++ espm.txt a.txt
+> add cs70.txt
+<<<
+> add espm.txt
+<<<
+> commit "scores updated"
+<<<
+> branch b1
+<<<
+> rm espm.txt
+<<<
+> commit "dropped espm"
+<<<
+> checkout b1
+<<<
++ eecs16.txt a.txt
++ cs61b.txt a.txt
+> add eecs16.txt
+<<<
+> add cs61b.txt
+<<<
+> commit "harder semester"
+<<<
+> rm eecs16.txt
+<<<
+> rm testScore.txt
+<<<
+> rm espm.txt
+<<<
+> commit "cs61b cs70 score"
+<<<
+* espm.txt
+* eecs16.txt

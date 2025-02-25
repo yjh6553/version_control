@@ -1,0 +1,13 @@
+# Basic Test made by Joshua
+> init
+<<<
++ testScore.txt a.txt
+> add testScore.txt
+<<<
++ lifeScore.txt d.txt
+> add lifeScore.txt
+<<<
+> commit "test score and life score added."
+<<<
+= testScore.txt a.txt
+= lifeScore.txt d.txt

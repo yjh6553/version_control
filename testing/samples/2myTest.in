@@ -1,0 +1,21 @@
+# Basic Test made by Joshua
+> init
+<<<
++ testScore.txt a.txt
+> add testScore.txt
+<<<
++ cs70.txt b.txt
++ espm.txt a.txt
+> add cs70.txt
+<<<
+> add espm.txt
+<<<
+> commit "scores updated"
+<<<
+> rm espm.txt
+<<<
+> commit "dropped espm"
+<<<
+* espm.txt
+= cs70.txt b.txt
+= testScore.txt a.txt
